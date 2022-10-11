@@ -1,0 +1,271 @@
+.container{
+        position: relative;
+        width: 900px;
+        Height: 1600px;
+
+}
+.cabecalho {
+    position: relative;
+    width: 50%;
+    left: 200px;
+    top: 50px;
+}
+.titulo {
+    position: relative;
+    width: 100%;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+}
+
+.titulo_Terminologia {
+    position: relative;
+    Width: 100%;;
+    left: 200px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+}
+
+.titulo_Etimologia {
+    position: relative;
+    width: 100%;
+    left: 200px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+}
+
+.titulo_Evolucao {
+    position: relative;
+    width: 100%;
+    left: 200px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+}
+
+.subtitulo {
+    position: relative;
+    width: 100%;
+    bottom: 10px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 16px;
+}
+.linha {
+    position: absolute;
+    width: 1000px;
+    bottom: 30px; 
+}
+.linha2 {
+    position: absolute;
+    width: 1000px;
+    left: 200px;
+    top: 25px;
+}
+
+.linha3 {
+    position: absolute;
+    width: 1000px;
+    left: 200px;
+    top: 164px;
+}
+
+.linha4 {
+    position: absolute;
+    width: 1000px;
+    left: 200px;
+    top: 344px;
+}
+
+.comentarios {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 830px;
+    bottom: 45px;
+    
+    background: #F9F9F9;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+
+.texto_comentarios {
+    position: absolute;
+    width: 30px;
+    height: 10px;
+    top: 0.9px;
+    left: 5px;
+    
+    font-family: 'newsreader';
+    font-style: normal;
+}
+
+.barra_do_lado {
+    position: relative;
+    width: 180px;
+    height: 2000px;
+    bottom: 120px;
+    margin: 0px;
+    background-color: #FAF9F9;
+}
+.icon {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 40px;
+    top: 40px;
+}
+.icon_title {
+    position: absolute;
+    height: 30px;
+    width: 139.5px;
+    top: 60px;
+    left: 5px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+}
+.icon_subtitle {
+    position: absolute;
+    width: 152px;
+    height: 22.26px;
+    left: 15px;
+    top: 100px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 13px;
+    letter-spacing: 0.05em;
+}
+
+.lista {
+    position: relative;
+    top: 220px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.conteudo1 {
+    position: relative;
+    width: 1000px;
+    height: 557px;
+    bottom: 1000px;
+    left: 200px;
+}
+
+.conteudo2 {
+    position: relative;
+    top: -980px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.conteudo3 {
+    position: relative;
+    width: 1000px;
+    height: 200px;
+    bottom: 2100px;
+}
+
+.conteudo4 {
+    position: relative;
+    bottom: 10px;
+    left: 200px;
+    
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.conteudo5 {
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.conteudo6 {
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.Box {
+    position: relative;
+    width: 250px;
+    height: 300px;
+    left: 280px;
+    top: -2120px;
+
+    background-color: #dddddd;
+}
+
+.Animal_image_vid {
+    position: relative;
+    width: 380px;
+    height: 850px;
+    left: 1250px;
+}
+
+.Animal_image {
+    position: relative;
+    max-width: 280px;
+    max-height: 250px;
+    left: 1250px;
+}
+
+.mensagens {
+    position: relative;
+    bottom: 1800px;
+    left: 200px;
+}
+
+.text_box {
+    position: relative;
+    width: 800px;
+    height: 150px;
+    padding: 8px;
+    border: #000;
+    background-color: #ececec;
+
+    bottom: 1800px;
+    left: 200px;
+}
+.caixa_txt {
+    position: relative;
+    color:#aaaaaa
+}
